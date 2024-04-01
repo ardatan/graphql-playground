@@ -2408,10 +2408,10 @@
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.3.tgz#2ab0d5da2e5815f94b0b9d4b95d1e5f243ab2ca7"
   integrity sha512-KfRL3PuHmqQLOG+2tGpRO26Ctg+Cq1E01D2DMriKEATHgWLfeNDmq9e29Q9WIky0dQ3NPkd1mzYH8Lm936Z9qw==
 
-"@types/react-addons-test-utils@0.14.20":
-  version "0.14.20"
-  resolved "https://registry.yarnpkg.com/@types/react-addons-test-utils/-/react-addons-test-utils-0.14.20.tgz#66a5787b8f15cce01c195fe2b95b89046054810d"
-  integrity sha512-8VtaCDAy/XNOWBvCHpU/YCxvi8CShnaXZcQn1JJNkwpkBgvUXfc7vN3rHhqfKhuOlmLdoOBinJ+Sc3nhEuTkvg==
+"@types/react-addons-test-utils@0.14.26":
+  version "0.14.26"
+  resolved "https://registry.yarnpkg.com/@types/react-addons-test-utils/-/react-addons-test-utils-0.14.26.tgz#c9dc8c81e4b1f2832ae00b73b483934d29c74fb9"
+  integrity sha512-zrnMrqGCfIniXyipb9HFPgdWf9TO0llA7n5QduJsx0IDB0pPK8p3/4rL4SfOLgsmtbb2X2XWCW9kBn/2k+52fg==
   dependencies:
     "@types/react" "*"
 
