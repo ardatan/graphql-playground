@@ -132,7 +132,7 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "@types/classnames": "2.2.3",
-    "@types/deasync": "0.1.0",
+    "@types/deasync": "0.1.5",
     "@types/jest": "22.2.3",
     "@types/node": "12.12.34",
     "@types/react": "16.9.32",
